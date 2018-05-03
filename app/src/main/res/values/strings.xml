@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">HatzSubs</string>
+
+    <!-- Layout Main Activity (Beranda) -->
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+
+    <!-- Layout Profil -->
+    <string name="judul">HatzSubs</string>
+    <string name="diskripsi">Anime dan Manga Bahasa Indonesia</string>
+
+
+    <!-- Layout Anime List -->
+    <string name="AL_J_A">A</string>
+    <string name="AL_J_B">B</string>
+    <string name="AL_J_C">C</string>
+    <string name="AL_J_D">D</string>
+    <string name="AL_J_E">E</string>
+    <string name="AL_J_F">F</string>
+    <string name="AL_J_G">G</string>
+    <string name="AL_J_H">H</string>
+    <string name="AL_J_I">I</string>
+    <string name="AL_J_J">J</string>
+    <string name="AL_J_K">K</string>
+    <string name="AL_J_L">L</string>
+    <string name="AL_J_M">M</string>
+    <string name="AL_J_N">N</string>
+    <string name="AL_J_O">O</string>
+    <string name="AL_J_P">P</string>
+    <string name="AL_J_Q">Q</string>
+    <string name="AL_J_R">R</string>
+    <string name="AL_J_S">S</string>
+    <string name="AL_J_T">T</string>
+    <string name="AL_J_U">U</string>
+    <string name="AL_J_V">V</string>
+    <string name="AL_J_W">W</string>
+    <string name="AL_J_X">X</string>
+    <string name="AL_J_Y">Y</string>
+    <string name="AL_J_Z">Z</string>
+    <string name="AL_A_Aho_Girl">Aho Girl</string>
+    <string name="AL_A_Air_Gear">Air Gear</string>
+    <string name="AL_A_Akame_ga_kill">Akame Ga Kill</string>
+    <string name="AL_A_Aldnoah_Zero">Aldnoah_Zero</string>
+    <string name="AL_B_Baka_to_Test">Baka to Test</string>
+    <string name="AL_B_Bakuman">Bakuman</string>
+    <string name="AL_B_Bento">Ben-to</string>
+    <string name="AL_B_Bleach">Bleach</string>
+    <string name="AL_B_Boku_no_Hero">Boku no Hero Academia</string>
+    <string name="AL_C_Charlotte">Charlotte</string>
+    <string name="AL_C_Chunibyou">Chunibyou</string>
+    <string name="AL_C_Clannad">Clannad</string>
+    <string name="AL_C_Code_Geass">Code Geass</string>
+    <string name="AL_D_Date_a_Live">Date A Live</string>
+    <string name="AL_D_Dfrag">D-Frag</string>
+    <string name="AL_D_Dimension_W">Dimension W</string>
+    <string name="AL_D_Durara">Durara!!</string>
+    <string name="title_activity_beranda">Beranda</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
